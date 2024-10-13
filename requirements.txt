@@ -1,0 +1,14 @@
+blosc2==2.7.1
+msgpack==1.1.0
+ndindex==1.9.2
+numexpr==2.10.1
+numpy==2.1.2
+packaging==24.1
+pandas==2.2.3
+py-cpuinfo==9.0.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+six==1.16.0
+tables==3.10.1
+typing_extensions==4.12.2
+tzdata==2024.2
